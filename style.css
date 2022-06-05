@@ -1,0 +1,31 @@
+*{
+    
+    background-size: cover;
+}
+
+.fondo{
+    background-image: url(/fondo.jpg);
+    width: 100%;
+display: block;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5ram;
+    padding: 5%;
+
+}
+
+.titulo{
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtitulo{
+    text-align: center;
+    text-decoration-color: bisque;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
