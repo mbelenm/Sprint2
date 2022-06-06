@@ -12,7 +12,32 @@ display: block;
 h1{
     text-align: center;
     margin-top: 5ram;
-    padding: 5%;
+    
+
+}
+
+.p
+{
+    text-align: center;
+    margin-top: 2ram;
+    padding: 2%;
+}
+
+.encabezado{
+    background-color: blueviolet;
+    border-width: 50px;
+    border-width: 10%;
+    border-right: 50px;
+}
+.formul{
+    width: 40%;
+    margin-left: 30%;
+}
+.principal{
+    border-color:violet;
+    border-style:ridge;
+    border-width: 20px;
+    border-right: 5px;
 
 }
 
@@ -28,4 +53,9 @@ h1{
     text-decoration-color: bisque;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.boton{
+    
+    background-color: blueviolet;
 }
